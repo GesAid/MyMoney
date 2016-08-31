@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Money</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="total">Остаток наличных</string>
+    <string name="vvod_sum">Введите сумму</string>
+    <string name="add_comment">Введите комментарий</string>
+    <string name="zarplata">Зарплата</string>
+    <string name="produkt">Продукты</string>
+    <string name="veshi">Вещи</string>
+    <string name="avans">Аванс</string>
+    <string name="kredit">Кредит</string>
+    <string name="ipoteka">Ипотека</string>
+    <string name="internet">Интренет</string>
+    <string name="podarok">Подарок</string>
+    <string name="gkh">ЖКХ</string>
+    <string name="zaim">Займ</string>
+    <string name="dolg">Долг</string>
+    <string name="transport">Транспорт</string>
+    <string name="prochee">Прочее</string>
+    <string name="prochee_mn">Иные</string>
+    <string name="lekarstva">Лекарства</string>
+    <string name="exit">Выход</string>
+
+    <string name="podrobnosti">Подробности</string>
+    <string name="vhod">Вход</string>
+</resources>
